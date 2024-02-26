@@ -15,7 +15,7 @@ const OurServices = () => {
         <div className="text-center pb-10" id="services">
           <p className='text-[15px] md:text-[16px] text-[#3CBDF4] font-switzer uppercase mb-3' data-aos="fade-down"
             data-aos-easing="linear"
-            data-aos-duration="1600">Let see our Services</p>
+            data-aos-duration="1600">Our Services</p>
           <div className="text-white text-[30px] md:text-4xl xl:text-4xl font-semibold font-switzer">
             <p className="w-full md:w-[70%] lg:w-[50%] xl:w-[55%] 2xl:w-[70%] mx-auto leading-[48px]" data-aos="fade-down"
               data-aos-easing="linear"
