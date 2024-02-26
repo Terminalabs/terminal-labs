@@ -24,7 +24,7 @@ const ShareWithUs = () => {
                           <p className="mb-2">Got a Project Idea! Share</p>
                           <p>with us for develop!</p>
                         </div>
-                        <p className="text-[#B2A6B9] font-amulya md:w-[330px] xl:w-[415px] 2xl:w-[420px] mt-5 mb-7">Got a project idea you're excited about? Share it with us today and let's make it happen together</p>
+                        <p className="text-[#B2A6B9] font-amulya md:w-[330px] xl:w-[415px] 2xl:w-[420px] mt-5 mb-7">Got an innovative project idea? We'd love to hear it! Share your vision with us and let's collaborate to turn it into reality.</p>
 
                         <a target="_blank" href="mailto:contact@terminalabs.io">
                           <Button className="rounded-[8px] group cursor-pointer px-5 md:px-7 border border-[#a74fff4f]">
